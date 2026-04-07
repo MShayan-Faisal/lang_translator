@@ -1,101 +1,57 @@
-🌐 Language Translator Web App
+# 🌍 Language Translator (HTML, CSS, JavaScript)
 
-The Language Translator Web App is a simple, elegant, and efficient translation tool built using HTML, CSS, and JavaScript. It allows users to translate text instantly between different languages using an integrated translation API — all within a clean and responsive interface.
+The **Language Translator** is a simple and responsive web application built using **HTML, CSS, and JavaScript**. It allows users to translate text from one language to another quickly and easily using a clean and user-friendly interface.
 
-This project brings together design, logic, and real-world functionality to create a smooth translation experience that works right inside your browser.
+This project focuses on frontend development skills and API integration for real-time language translation.
 
-About The Project
+---
 
-The idea behind this project was to build a lightweight web-based translator that anyone can use quickly, without ads, distractions, or complex interfaces. It’s designed for students, travelers, or anyone who needs fast translations on the go.
+## 🚀 Features
 
-The app connects to a translation API to fetch accurate translations and supports multiple languages. Users simply type a word, sentence, or paragraph, choose their source and target languages, and see the translated result in real time.
+- 🌍 Translate text between multiple languages  
+- ⚡ Real-time translation results  
+- 📝 Simple and easy-to-use input interface  
+- 📱 Fully responsive design  
+- 🎨 Clean and minimal UI  
+- 🔄 Swap source and target languages (optional feature)  
 
-The goal was not only to make it functional but also to focus on simplicity and user experience.
+---
 
-Technologies Used
+## 🧰 Tech Stack
 
-HTML5 – for structure and layout
-CSS3 – for styling, design, and responsiveness
-JavaScript – for logic, interactivity, and API integration
-Translation API – to fetch and display translated text
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Translation API (e.g., Google Translate API / LibreTranslate)  
 
-Key Features
+---
 
-Real-time translation between multiple languages
-Clean and minimal user interface
-Option to copy translated text to clipboard
-Responsive design that works on desktop and mobile
-Error handling for empty or invalid inputs
+## 🎯 Purpose
 
-Folder Structure
+This project was built to practice **JavaScript API integration, DOM manipulation, and building real-world utility tools** using core frontend technologies.
 
-lang-translator
-│
-├── index.html → Main interface layout
-├── style.css → Styling and responsive design
-├── script.js → Translation logic and API handling
-└── assets/ → Icons and flag images for languages
+---
 
-How It Works
+## ⚙️ How It Works
 
-The user enters text in the input box.
+1. User enters text  
+2. Selects source and target languages  
+3. App sends request to translation API  
+4. Translated text is displayed instantly  
 
-They select a source and target language from dropdown menus.
+---
 
-JavaScript sends a request to the Translation API with the input text and selected languages.
+## 📝 Future Improvements
 
-The translated text is displayed instantly in the output box.
+- 🎤 Voice input support  
+- 🔊 Text-to-speech output  
+- 🌙 Dark mode support  
+- 📚 More language support  
+- 🔁 Swap languages button  
 
-Users can copy the result or modify it for further translation.
+---
 
-This creates a seamless and interactive translation experience entirely in the browser.
+## 📝 License
 
-What I Learned
-
-While developing this project, I learned how to:
-
-Work with external APIs and handle responses using fetch()
-
-Manage and display dynamic data in a user interface
-
-Build dropdown menus for multiple languages
-
-Handle errors and invalid inputs gracefully
-
-Create responsive layouts for better usability
-
-This project was an excellent exercise in combining API logic with UI design, resulting in something practical and visually appealing.
-
-Contact
-
-For feedback, questions, or collaboration opportunities, feel free to reach out:
-
-Email: shayanrajpoot520@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/m-shayan-faisal/
-
-GitHub: https://github.com/shayan520898?tab=repositories
-
-Future Improvements
-
-Add speech input and audio pronunciation
-
-Include automatic language detection
-
-Add text-to-speech functionality for both input and output
-
-Enable translation history and saving feature
-
-Implement dark and light mode toggle
-
-License
-
-This project is open source under the MIT License. You are welcome to explore, modify, and build upon it. If you find it helpful or inspiring, a star on the repository would mean a lot.
-
-Final Thoughts
-
-The Language Translator Web App demonstrates how simple web technologies can deliver powerful, real-world applications. It’s practical, clean, and user-friendly — designed for anyone who values simplicity and efficiency in communication.
-
-It reflects my passion for creating useful, accessible, and elegant web tools that make life just a little easier.
-
-Thank you for taking the time to check it out!
+This project is open source and available under the MIT License.
+<img width="1425" height="731" alt="Screenshot 2026-04-07 122134" src="https://github.com/user-attachments/assets/e5c864a5-3661-40b9-adb5-ad036d9a0916" />
