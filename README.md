@@ -16,7 +16,7 @@ This project focuses on frontend development skills and API integration for real
 - 🔄 Swap source and target languages (optional feature)  
 
 ---
-
+<img width="1425" height="731" alt="Screenshot 2026-04-07 122134" src="https://github.com/user-attachments/assets/e5c864a5-3661-40b9-adb5-ad036d9a0916" />
 ## 🧰 Tech Stack
 
 - HTML5  
@@ -54,4 +54,4 @@ This project was built to practice **JavaScript API integration, DOM manipulatio
 ## 📝 License
 
 This project is open source and available under the MIT License.
-<img width="1425" height="731" alt="Screenshot 2026-04-07 122134" src="https://github.com/user-attachments/assets/e5c864a5-3661-40b9-adb5-ad036d9a0916" />
+
